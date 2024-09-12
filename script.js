@@ -7,7 +7,7 @@ function draw() {
         for(let j = 0; j < 12; j++){
             // translate();
             fill(255);
-            square(10, 10, 10);
+            square(10, 50, 70);
         }
     }
 }
